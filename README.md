@@ -1,5 +1,4 @@
-# weather-dashboard
-# <Server-Side APIs Challenge: Weather Dashboard>
+# Weather Dashboard
 
 ## Description
 In this project I built a weather dashboard that operates within a web browser. The dashboard will utilize third-party APIs to access weather data and dynamically update HTML and CSS to display this information in a user-friendly manner.
